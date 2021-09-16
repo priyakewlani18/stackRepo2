@@ -1,0 +1,6 @@
+name: contributor-takes-stacksSSS
+description: This is a stack to assign yourself to an issue for a repo you are not a contributor to.
+author: B Dolla Mon$ign
+branding:
+  icon: 'thumbs-up'
+  color: ‘white'
